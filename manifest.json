@@ -1,0 +1,9 @@
+{
+  "start_url": "./",
+  "scope": "./",
+  "name": "Dispensa",
+  "short_name": "Dispensa",
+  "display": "standalone",
+  "theme_color": "#4CAF50",
+  "icons": [{"src": "https://via.placeholder.com/512/4CAF50/FFFFFF?text=D", "sizes": "512x512"}]
+}
